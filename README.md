@@ -1,0 +1,1 @@
+# gitstats docker image with debian:stretch-slim
